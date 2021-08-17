@@ -1,34 +1,104 @@
 #include<stdio.h>
 #include<string.h>
-int main()
+#include<math.h>
+void dec_to_bin(int x); //函数调用定义
+void dec_to_oct(int x);
+void dec_to_hex(int x);
+int main(void)  // 计算机中，int 占用4个字节- -
 {
-  int n,i,j,a[100]={7,9,10,5,8,4,2,1,6,3,7,9,10,5,8,4,2},t,flag2=0,flag,flag1,sum;
-  char ch[100],ch1[100]={"10X98765432"};
-  scanf("%d",&n);
-  getchar();
-  for(i=0;i<n;i++)
-  {
-    sum=0;
-    flag=0;
-    flag1=0;
-    gets(ch);
-    for(j=0;j<17;j++)
-    {
-      if(!(ch[j]>='0'&&ch[j]<='9'))
-      {
-        flag=1;
-      }
-      sum=sum+(ch[j]-'0')*a[j];
-    }
-    t=sum%11;
-    if(ch1[t]==ch[17]) flag1=1;
-    if(flag1==0||flag==1)
-    {
-        printf("%s\n",ch);
-        flag2=1;
-    }
-  }
-  if(flag2==0) printf("All passed");
-  return 0;
+     int decNum;
+     printf("请输入一个十进制整数：\n");
+     scanf("%d", &decNum);
+     dec_to_bin(decNum);
+     dec_to_oct(decNum);
+     dec_to_hex(decNum);
+     return 0;
 }
-
+void dec_to_bin(int x)
+{
+     char *table="01";
+     char array[33];
+     int num;
+     num = x;
+     array[32] = '\0';
+     int i = 31;
+     if (x > 0)
+     {  
+          memset(array,'0',32);
+          while(x)
+          {
+               array[i--] = table[x % 2];
+               x = x/2;
+          }
+     }
+     if (x < 0)
+     {
+          memset(array,'1',32);
+          int j;
+          for(j=0; j<32; j++)
+          {
+               array[i--] = table[x & 0x01];
+               x >>= 1;
+          }
+     }
+     printf("十进制数%d <======>对应二进制为%s\n", num, array);  
+}
+void dec_to_oct(int x)
+{
+     char *table = "01234567";
+     char array[12]; //数组设定为12.是因为除了结束符之外，考虑到负数的输入，
+                 //其转化为补码再转为八进制数出，32位每三个取组成一个8进制数。因此元素为11个。
+     int num;
+     num = x;
+     array[11] = '\0';
+     int i = 10;
+     if (x > 0)
+     {
+          memset(array,'0',11);
+          while(x)
+          {
+               array[i--] = table[x % 8];
+               x = x/8;
+          }
+      }
+     if (x < 0)
+     {
+          memset(array,'1',11);  
+          int j;
+          for(j=0; j<10; j++)// 32/3 = 10;
+          {
+               array[i--] = table[x & 0x07];
+               x >>= 3;
+           }
+          array[i] = table[x & 0x03];
+     }
+     printf("十进制数%d <======>对应八进制为%s\n", num, array);  
+}
+void dec_to_hex(int x)
+{
+     char *table = "0123456789abcdef";
+     char array[9];
+     array[8] = '\0';
+     int i = 7, num;
+     num = x;
+     if (x > 0)
+     {
+          memset(array,'0',8);
+          while(x)
+         {
+              array[i--] = table[x % 16];
+              x = x / 16 ;
+         }
+     }
+     else
+     {
+          memset(array,'1',8);
+          int j;
+          for(j=0; j<8; j++)
+          {
+               array[i--] = table[x & 0x0f];
+               x >>= 4;
+           }
+     }
+     printf("十进制数%d <======>对应十六进制为%s\n", num, array);
+}
