@@ -4,7 +4,7 @@ int main(void)
     int a,b,c;
     scanf("%d%d%d",&a,&b,&c);
     int min;
-    if(a>b)//Èôa>bÔòÏÈ½«a¸³Óè×îÐ¡Öµ£¬bÔÙ¸³Óèa£¬ÔÙ½«×îÐ¡Öµ¸³ÓèbÒÔÏÂÍ¬Àí 
+    if(a>b)//è‹¥a>båˆ™å…ˆå°†aèµ‹äºˆæœ€å°å€¼ï¼Œbå†èµ‹äºˆaï¼Œå†å°†æœ€å°å€¼èµ‹äºˆbä»¥ä¸‹åŒç† 
     {
         min=a;
         a=b;

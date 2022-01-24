@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de08166e-d9e8-40e5-84a4-7658ba7c4835": {
+      "ProjectGuid": "de08166e-d9e8-40e5-84a4-7658ba7c4835",
+      "DisplayName": "单词反转",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

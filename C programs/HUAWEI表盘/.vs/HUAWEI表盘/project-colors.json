@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a52d655b-a928-42a2-836d-ff624e66ae65": {
+      "ProjectGuid": "a52d655b-a928-42a2-836d-ff624e66ae65",
+      "DisplayName": "HUAWEI表盘",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
