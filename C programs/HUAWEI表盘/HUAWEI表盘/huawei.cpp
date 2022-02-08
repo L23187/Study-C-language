@@ -14,6 +14,7 @@
 #define WIN_HALF (WIN_SIZE/2)    //窗口的一半
 
 IMAGE spaceman[48];	//太空人图片数组
+IMAGE heartbeat[1];
 void loadImage() {
 	//加载图片	[0-47]
 	char fileName[50] = { 0 };//定义一个字符数组将 "./image/%d.jpg" 这句话变为一个数组 把里面的数字进行改变 达到更换图片的目的
@@ -24,6 +25,8 @@ void loadImage() {
 		loadimage(spaceman + i, fileName, 140, 130);
 	}
 	
+	//显示心跳
+
 	
 }
 //设置文字样式
@@ -99,9 +102,9 @@ void gameDraw() {
 	//printf("%lld\n", curTime);//1643084614 包含年月日时间,需要函数进行翻译
 	struct tm * humanTime = localtime(&curTime);
 	char buf[40] = { 0 };
-	sprintf_s(buf, "%d:%0d", humanTime->tm_hour, humanTime->tm_min);
+	sprintf_s(buf, "%d:%d", humanTime->tm_hour, humanTime->tm_min);
 	outtextxy(WIN_HALF-145, WIN_HALF-115, buf);//表明时间的位置
-	sprintf_s(buf, "0%d", humanTime->tm_sec);
+	sprintf_s(buf, "%d", humanTime->tm_sec);
 	outtextxy(335,160, buf);//表明时间的位置
 }
 
@@ -114,7 +117,7 @@ void getMusic() {
 
 	*/
 	mciSendString("play bkmusic repeat", NULL, 0, NULL);//循环播放音乐
-	system("pause");
+	//system("pause");
 }
 int main() {
 	//创建一个图形界面
@@ -142,6 +145,5 @@ int main() {
 
 	
 	getchar();
-	EndBatchDraw();
 	return 0;
 }

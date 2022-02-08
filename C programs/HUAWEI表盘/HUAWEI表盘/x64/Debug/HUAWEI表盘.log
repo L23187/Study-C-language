@@ -1,4 +1,4 @@
 ﻿  huawei.cpp
-D:\C language-Github\Study-C-language\C programs\HUAWEI表盘\HUAWEI表盘\huawei.cpp(34,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\C language-Github\Study-C-language\C programs\HUAWEI表盘\HUAWEI表盘\huawei.cpp(100,26): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C language-Github\Study-C-language\C programs\HUAWEI表盘\HUAWEI表盘\huawei.cpp(37,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\C language-Github\Study-C-language\C programs\HUAWEI表盘\HUAWEI表盘\huawei.cpp(103,26): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   HUAWEI表盘.vcxproj -> D:\C language-Github\Study-C-language\C programs\HUAWEI表盘\x64\Debug\HUAWEI表盘.exe
