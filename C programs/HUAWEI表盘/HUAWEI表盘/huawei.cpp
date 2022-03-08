@@ -117,7 +117,7 @@ void getMusic() {
 
 	*/
 	mciSendString("play bkmusic repeat", NULL, 0, NULL);//循环播放音乐
-	//system("pause");
+	system("pause");
 }
 int main() {
 	//创建一个图形界面

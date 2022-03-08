@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "acaf0772-1c0c-4983-b6a1-d4d90fd073e6": {
+      "ProjectGuid": "acaf0772-1c0c-4983-b6a1-d4d90fd073e6",
+      "DisplayName": "N个数求和",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
