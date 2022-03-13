@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe897dfe-09a1-4969-8fba-44c96ebc0eae": {
+      "ProjectGuid": "fe897dfe-09a1-4969-8fba-44c96ebc0eae",
+      "DisplayName": "念数字",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  最长对称子串.cpp
+D:\C language-Github\Study-C-language\22年天梯备赛\最长对称子串\最长对称子串\最长对称子串.cpp(18,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  最长对称子串.vcxproj -> D:\C language-Github\Study-C-language\22年天梯备赛\最长对称子串\x64\Debug\最长对称子串.exe

@@ -22,8 +22,5 @@ int main()
         temp *= 2.0;
     temp = 100 * temp * count / x;
     printf("%.2lf\%%\n", temp);
-
-
     return 0;
-
 }

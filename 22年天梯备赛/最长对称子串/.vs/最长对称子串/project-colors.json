@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48ec2314-7c0c-4962-9142-ba913b890243": {
+      "ProjectGuid": "48ec2314-7c0c-4962-9142-ba913b890243",
+      "DisplayName": "最长对称子串",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

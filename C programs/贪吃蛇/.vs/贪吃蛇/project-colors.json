@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dee80dc4-81fa-4d5c-b83a-ecc8ea194848": {
+      "ProjectGuid": "dee80dc4-81fa-4d5c-b83a-ecc8ea194848",
+      "DisplayName": "贪吃蛇",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

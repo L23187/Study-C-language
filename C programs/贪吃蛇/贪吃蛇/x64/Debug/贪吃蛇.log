@@ -1,0 +1,6 @@
+﻿  贪吃蛇.cpp
+D:\C language-Github\Study-C-language\C programs\贪吃蛇\贪吃蛇\贪吃蛇.cpp(69,21): warning C4018: “>”: 有符号/无符号不匹配
+D:\C language-Github\Study-C-language\C programs\贪吃蛇\贪吃蛇\贪吃蛇.cpp(235,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\C language-Github\Study-C-language\C programs\贪吃蛇\贪吃蛇\贪吃蛇.cpp(243,54): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C language-Github\Study-C-language\C programs\贪吃蛇\贪吃蛇\贪吃蛇.cpp(490,13): warning C4101: “yu”: 未引用的局部变量
+  贪吃蛇.vcxproj -> D:\C language-Github\Study-C-language\C programs\贪吃蛇\x64\Debug\贪吃蛇.exe

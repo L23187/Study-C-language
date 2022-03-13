@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d27f59f9-0eaa-4dca-b4ed-3820fb769601": {
+      "ProjectGuid": "d27f59f9-0eaa-4dca-b4ed-3820fb769601",
+      "DisplayName": "求整数段的和",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

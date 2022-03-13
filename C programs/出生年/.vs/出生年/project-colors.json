@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "43fb02d0-39bd-4649-b823-bbd5944ed5de": {
+      "ProjectGuid": "43fb02d0-39bd-4649-b823-bbd5944ed5de",
+      "DisplayName": "出生年",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
