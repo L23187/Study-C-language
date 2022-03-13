@@ -1,0 +1,4 @@
+﻿  正整数A+B.cpp
+D:\C language-Github\Study-C-language\22年天梯备赛\正整数A+B\正整数A+B\正整数A+B.cpp(10,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C language-Github\Study-C-language\22年天梯备赛\正整数A+B\正整数A+B\正整数A+B.cpp(24,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正整数A+B.vcxproj -> D:\C language-Github\Study-C-language\22年天梯备赛\正整数A+B\x64\Debug\正整数A+B.exe

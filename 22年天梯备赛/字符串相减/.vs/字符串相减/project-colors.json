@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "401d34de-c7d7-4cf5-926c-d93521c7f162": {
+      "ProjectGuid": "401d34de-c7d7-4cf5-926c-d93521c7f162",
+      "DisplayName": "字符串相减",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

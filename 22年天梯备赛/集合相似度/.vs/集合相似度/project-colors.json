@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf6dd9d4-be3d-4667-a306-d65f16b9e199": {
+      "ProjectGuid": "cf6dd9d4-be3d-4667-a306-d65f16b9e199",
+      "DisplayName": "集合相似度",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

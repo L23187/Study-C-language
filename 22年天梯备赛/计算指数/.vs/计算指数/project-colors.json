@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc13c959-ea5b-4da9-b22c-5ee2914d1429": {
+      "ProjectGuid": "cc13c959-ea5b-4da9-b22c-5ee2914d1429",
+      "DisplayName": "计算指数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

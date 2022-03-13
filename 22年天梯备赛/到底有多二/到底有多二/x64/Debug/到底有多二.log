@@ -1,0 +1,4 @@
+﻿  到底有多二.cpp
+D:\C language-Github\Study-C-language\22年天梯备赛\到底有多二\到底有多二\到底有多二.cpp(15,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C language-Github\Study-C-language\22年天梯备赛\到底有多二\到底有多二\到底有多二.cpp(24,12): warning C4129: “%”: 不可识别的字符转义序列
+  到底有多二.vcxproj -> D:\C language-Github\Study-C-language\22年天梯备赛\到底有多二\x64\Debug\到底有多二.exe

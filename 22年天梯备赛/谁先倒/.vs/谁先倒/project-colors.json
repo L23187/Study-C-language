@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c85be5ec-4231-47d5-a884-934250a2cc4d": {
+      "ProjectGuid": "c85be5ec-4231-47d5-a884-934250a2cc4d",
+      "DisplayName": "谁先倒",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

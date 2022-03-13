@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6ba9841b-746b-43d9-b3c3-c2ddf5b2894e": {
+      "ProjectGuid": "6ba9841b-746b-43d9-b3c3-c2ddf5b2894e",
+      "DisplayName": "判断素数",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

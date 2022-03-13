@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ca0843e-959c-4cc9-b341-f4df9c84418a": {
+      "ProjectGuid": "0ca0843e-959c-4cc9-b341-f4df9c84418a",
+      "DisplayName": "跟奥巴马一起画方块",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

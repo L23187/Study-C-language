@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24a44938-2d76-4576-b1c0-cf3e0961e5f6": {
+      "ProjectGuid": "24a44938-2d76-4576-b1c0-cf3e0961e5f6",
+      "DisplayName": "计算阶乘和",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

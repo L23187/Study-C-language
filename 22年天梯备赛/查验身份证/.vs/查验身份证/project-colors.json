@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "95242a5b-f050-43b9-b4ec-ea206bcefd96": {
+      "ProjectGuid": "95242a5b-f050-43b9-b4ec-ea206bcefd96",
+      "DisplayName": "查验身份证",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
