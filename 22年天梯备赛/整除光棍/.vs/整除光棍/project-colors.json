@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7c563dd0-c8c2-4946-a228-93f09f232d3a": {
+      "ProjectGuid": "7c563dd0-c8c2-4946-a228-93f09f232d3a",
+      "DisplayName": "整除光棍",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

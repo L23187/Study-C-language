@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0bc00f5-19d8-4e03-bc99-bb3fe9098046": {
+      "ProjectGuid": "e0bc00f5-19d8-4e03-bc99-bb3fe9098046",
+      "DisplayName": "Left-pad",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

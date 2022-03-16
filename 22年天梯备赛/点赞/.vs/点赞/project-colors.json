@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3bafed2-2bba-4dd3-9ebd-041cf56b9965": {
+      "ProjectGuid": "c3bafed2-2bba-4dd3-9ebd-041cf56b9965",
+      "DisplayName": "点赞",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,3 @@
+﻿  Left-pad.cpp
+D:\C language-Github\Study-C-language\22年天梯备赛\Left-pad\Left-pad\Left-pad.cpp(19,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Left-pad.vcxproj -> D:\C language-Github\Study-C-language\22年天梯备赛\Left-pad\x64\Debug\Left-pad.exe
