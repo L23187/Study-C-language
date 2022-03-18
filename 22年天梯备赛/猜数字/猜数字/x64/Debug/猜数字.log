@@ -1,0 +1,4 @@
+﻿  猜数字.cpp
+D:\C language-Github\Study-C-language\22年天梯备赛\猜数字\猜数字\猜数字.cpp(21,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C language-Github\Study-C-language\22年天梯备赛\猜数字\猜数字\猜数字.cpp(26,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  猜数字.vcxproj -> D:\C language-Github\Study-C-language\22年天梯备赛\猜数字\x64\Debug\猜数字.exe

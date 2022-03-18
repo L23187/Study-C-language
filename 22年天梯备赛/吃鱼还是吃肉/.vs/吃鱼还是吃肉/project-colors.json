@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7af176f-9399-4019-bd4e-842e36c34e0c": {
+      "ProjectGuid": "b7af176f-9399-4019-bd4e-842e36c34e0c",
+      "DisplayName": "吃鱼还是吃肉",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

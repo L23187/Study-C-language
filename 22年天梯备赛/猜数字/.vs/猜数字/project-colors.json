@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "383c8b23-69a4-4bfb-8df5-57fcd8477c19": {
+      "ProjectGuid": "383c8b23-69a4-4bfb-8df5-57fcd8477c19",
+      "DisplayName": "猜数字",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

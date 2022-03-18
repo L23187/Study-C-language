@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d5378f1-15cf-4664-ba5d-703780a99fb0": {
+      "ProjectGuid": "4d5378f1-15cf-4664-ba5d-703780a99fb0",
+      "DisplayName": "阅览室",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
