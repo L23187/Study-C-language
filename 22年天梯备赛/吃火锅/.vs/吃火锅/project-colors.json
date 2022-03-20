@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac5985f5-5784-4c8c-8031-b6bf25656d88": {
+      "ProjectGuid": "ac5985f5-5784-4c8c-8031-b6bf25656d88",
+      "DisplayName": "吃火锅",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

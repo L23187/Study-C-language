@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d75d80ca-0008-413e-b53f-cd311c3fde80": {
+      "ProjectGuid": "d75d80ca-0008-413e-b53f-cd311c3fde80",
+      "DisplayName": "心里阴影面积",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

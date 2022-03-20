@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "66e186d2-14ea-44ff-8d11-decda7c9f327": {
+      "ProjectGuid": "66e186d2-14ea-44ff-8d11-decda7c9f327",
+      "DisplayName": "检查密码",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
