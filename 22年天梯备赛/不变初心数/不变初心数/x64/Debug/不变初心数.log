@@ -1,0 +1,2 @@
+﻿不变初心数（字符串解法）.obj : error LNK2005: main 已经在 不变初心数.obj 中定义
+D:\C language-Github\Study-C-language\22年天梯备赛\不变初心数\x64\Debug\不变初心数.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
