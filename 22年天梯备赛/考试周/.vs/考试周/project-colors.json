@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fd4619b-86d4-42cc-81e1-db072760075a": {
+      "ProjectGuid": "5fd4619b-86d4-42cc-81e1-db072760075a",
+      "DisplayName": "考试周",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

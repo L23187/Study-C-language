@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4197fe5d-5d08-44b6-ab71-71370553668c": {
+      "ProjectGuid": "4197fe5d-5d08-44b6-ab71-71370553668c",
+      "DisplayName": "降价提醒机器人",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
