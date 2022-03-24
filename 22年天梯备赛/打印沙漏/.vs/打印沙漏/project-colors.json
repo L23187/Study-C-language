@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9033db61-7042-4d90-b9fc-89138a4313c4": {
+      "ProjectGuid": "9033db61-7042-4d90-b9fc-89138a4313c4",
+      "DisplayName": "打印沙漏",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

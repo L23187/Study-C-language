@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a68fec33-d046-4b38-8a1e-bddb5507bc2b": {
+      "ProjectGuid": "a68fec33-d046-4b38-8a1e-bddb5507bc2b",
+      "DisplayName": "连续因子",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
