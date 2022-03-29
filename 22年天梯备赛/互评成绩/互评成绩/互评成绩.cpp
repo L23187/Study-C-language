@@ -3,6 +3,7 @@
 
 void sort(int num[], int n) {//将成绩从大到小排序
 	int temp;
+	//冒泡排序
 	for (int i = 0; i < n - 1; i++) {
 		for (int j = 0; j < n - i - 1; j++) {
 			if (num[j] < num[j + 1]) {
