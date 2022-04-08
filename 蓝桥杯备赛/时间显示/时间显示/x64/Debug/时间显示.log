@@ -1,0 +1,4 @@
+﻿  时间显示.cpp
+D:\C language-Github\Study-C-language\蓝桥杯备赛\时间显示\时间显示\时间显示.cpp(9,8): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\C language-Github\Study-C-language\蓝桥杯备赛\时间显示\时间显示\时间显示.cpp(11,8): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  时间显示.vcxproj -> D:\C language-Github\Study-C-language\蓝桥杯备赛\时间显示\x64\Debug\时间显示.exe
