@@ -1,0 +1,4 @@
+﻿  代码排版.cpp
+D:\C language-Github\Study-C-language\22年天梯备赛\代码排版\代码排版\代码排版.cpp(52,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C language-Github\Study-C-language\22年天梯备赛\代码排版\代码排版\代码排版.cpp(134,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  代码排版.vcxproj -> D:\C language-Github\Study-C-language\22年天梯备赛\代码排版\x64\Debug\代码排版.exe

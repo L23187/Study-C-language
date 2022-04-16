@@ -1,32 +1,32 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
-
+#include <set>
+using namespace std;
 int main(void) {
-	int n, m, k;
-	int nums[100][100], j;
+	int n;
 	scanf("%d", &n);
-	for (int i = 1; i <= n; i++)
-	{
+	int m, l;
+	int k, a, b;
+	set<int>s[55];
+	for (int i = 0; i < n; i++) {
 		scanf("%d", &m);
-		for (j = 1; j <= m; j++)
-		{
-			scanf("%d", &nums[i][j]);
+		while (m--) {
+			scanf("%d", &l);
+			s[i].insert(l);
 		}
-		nums[i][j] = '#';
 	}
 	scanf("%d", &k);
-	int a[2000][2];
-	for (int i = 1; i <= k; i++)
-	{
-		for (int j = 1; j <= 2; j++) {
-			scanf("%d", &a[i][j]);
+	while (k--) {
+		scanf("%d %d", &a, &b);
+		int cta = s[a - 1].size(), ctb = s[b - 1].size();
+		int ct = 0;
+		set<int>::iterator iter;
+		for (iter = s[a - 1].begin(); iter != s[a - 1].end(); iter++) {
+			if (s[b - 1].find(*iter) != s[b - 1].end()) {
+				ct++;
+			}
 		}
+		printf("%.2lf%%\n", ct * 1.0 / (cta + ctb - ct) * 100);
 	}
-	for (int i = 1; i <= n; i++)
-	{
-		for (int j = 1; j < m; j++)
-		{
-			nums[a[i]]
-		}
-	}
+	return 0;
 }

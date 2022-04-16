@@ -1,2 +1,4 @@
 ﻿  集合相似度.cpp
+D:\C language-Github\Study-C-language\22年天梯备赛\集合相似度\集合相似度\集合相似度.cpp(21,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C language-Github\Study-C-language\22年天梯备赛\集合相似度\集合相似度\集合相似度.cpp(21,51): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   集合相似度.vcxproj -> D:\C language-Github\Study-C-language\22年天梯备赛\集合相似度\x64\Debug\集合相似度.exe

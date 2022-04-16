@@ -12,7 +12,7 @@ int main(void) {
 	}
 	for (int i = 0; i < row; i++)
 	{
-		for (int i = 0; i < n; i++)n
+		for (int i = 0; i < n; i++)
 		{
 			putchar(x);
 		}
